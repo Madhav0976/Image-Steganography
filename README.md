@@ -32,4 +32,24 @@ This project demonstrates how to *hide secret text messages inside images* using
 1. Encode
 2. Decode
 
-##
+🔚 Future Scope
+GUI-based image steganography
+
+Support for audio and video steganography
+
+Password protection for decoding
+
+📎 References
+Pillow Documentation
+
+LSB Steganography Wiki
+
+📂 Output Example
+📥 Hidden Message Decoded:
+🔓 hey!!! It's working...
+
+
+---
+
+Would you like me to generate a **PowerPoint (.pptx)** file too for your submission with all this content?
+
